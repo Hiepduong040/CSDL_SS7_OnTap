@@ -42,7 +42,7 @@ insert into subjects (subject_id, subject_name) values
 (4, 'Visual Basic');
 
 insert into marks (mark, subject_id, student_id) values
-(8, 1, 1),
+(8, 1, 9),
 (4, 2, 1),
 (9, 1, 1),
 (7, 1, 3),
